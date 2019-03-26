@@ -6,3 +6,4 @@ git add
 git commit -m""
 git remote add origin "https//"
 
+g
